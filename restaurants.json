@@ -1,0 +1,16 @@
+[
+  {
+    "id": "chi-restaurant",
+    "name": "Chi Restaurant & Bar",
+    "country": "Egypt",
+    "city": "Cairo",
+    "rating": 4.2
+  },
+  {
+    "id": "another-cafe",
+    "name": "Another Cafe",
+    "country": "Egypt",
+    "city": "Alexandria",
+    "rating": 3.7
+  }
+]
